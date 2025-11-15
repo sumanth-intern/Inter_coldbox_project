@@ -1,0 +1,1583 @@
+<testsuites><testsuite
+				tests="51"
+				failures="0"
+				errors="0"
+				skipped="1"
+				time="10.296"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.AssertionsTest"
+				name="TestBox xUnit suite using all kinds of assertions"
+				><testcase
+			name="TestBox xUnit suite using all kinds of assertions testExpectedExceptionNoValue"
+			time="0.001"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testIsEqualQuery"
+			time="0.003"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testNotNullValue"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testTypeOf"
+			time="0.003"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testIncludes"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testThrowsDoesNotIgnoreTypeWhenRegexMatches"
+			time="0.001"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testExpectedExceptionFromMethodWithType"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testNegatedAwesomeCustomAssertion"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testIsLTE"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testNotIncludes"
+			time="0.001"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testNotMatchWithCase"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testAssertShortcut"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testMatchWithCase"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testNotTypeOf"
+			time="0.002"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testExpectedExceptionFromMethodWithTypeAndRegex"
+			time="0.001"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testMatch"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testExpectedExceptionWithValueAndRegex"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testJavaValues"
+			time="10.215"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testAssert"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testKey"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testIncludesWithCase"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testThrows"
+			time="0.001"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testFloatingPointNumberAddition"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testExpectedExceptionFromMethod"
+			time="0.001"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testIsLT"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testLengthOf"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testThatShouldFailWithShortcut"
+			time="0.001"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testIsNotEmpty"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testExpectedExceptionWithValue"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testNotKey"
+			time="0.001"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testNotThrows"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testNotDeepKey"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testIsGTE"
+			time="0.001"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testThatShouldFail"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testisTrue"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testIsGT"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testAwesomeCustomAssertion"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testNotMatch"
+			time="0.001"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testIsEmpty"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testnotIncludesWithCase"
+			time="0.001"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testisEqualWithCase"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testisEqual"
+			time="0.044"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testisNotEqual"
+			time="0.009"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testInstanceOf"
+			time="0.001"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testNotInstanceOf"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testSkipped"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			><skipped></skipped></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testDeepKey"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testisFalse"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testNotLengthOf"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testnullValue"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase><testcase
+			name="TestBox xUnit suite using all kinds of assertions testIsEmptyFunctions"
+			time="0"
+			classname="tests.specs.AssertionsTest"
+			></testcase></testsuite><testsuite
+				tests="44"
+				failures="0"
+				errors="0"
+				skipped="1"
+				time="0.042"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.BaseAssertionsTest"
+				name="tests.specs.BaseAssertionsTest"
+				><testcase
+			name="tests.specs.BaseAssertionsTest testExpectedExceptionNoValue"
+			time="0.001"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testIsEqualQuery"
+			time="0.002"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testNotNullValue"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testTypeOf"
+			time="0.003"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testIncludes"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testExpectedExceptionFromMethodWithType"
+			time="0.001"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testIsLTE"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testNotIncludes"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testNotMatchWithCase"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testAssertShortcut"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testMatchWithCase"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testNotTypeOf"
+			time="0.009"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testExpectedExceptionFromMethodWithTypeAndRegex"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testMatch"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testExpectedExceptionWithValueAndRegex"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testAssert"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testKey"
+			time="0.001"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testIncludesWithCase"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testFloatingPointNumberAddition"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testExpectedExceptionFromMethod"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testIsLT"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testLengthOf"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testThatShouldFailWithShortcut"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testIsNotEmpty"
+			time="0.001"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testExpectedExceptionWithValue"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testNotKey"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testNotDeepKey"
+			time="0.001"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testIsGTE"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testThatShouldFail"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testisTrue"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testIsGT"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testNotMatch"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testIsEmpty"
+			time="0.001"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testnotIncludesWithCase"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testisEqualWithCase"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testisEqual"
+			time="0.01"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testisNotEqual"
+			time="0.005"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testInstanceOf"
+			time="0.002"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testNotInstanceOf"
+			time="0.001"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testSkipped"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			><skipped></skipped></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testDeepKey"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testisFalse"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testNotLengthOf"
+			time="0.001"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase><testcase
+			name="tests.specs.BaseAssertionsTest testnullValue"
+			time="0"
+			classname="tests.specs.BaseAssertionsTest"
+			></testcase></testsuite><testsuite
+				tests="1"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.003"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.BaseTest"
+				name="tests.specs.BaseTest"
+				><testcase
+			name="tests.specs.BaseTest testFromInheritance"
+			time="0"
+			classname="tests.specs.BaseTest"
+			></testcase></testsuite><testsuite
+				tests="8"
+				failures="0"
+				errors="0"
+				skipped="3"
+				time="0.007"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.BDDInheritanceTest"
+				name="tests.specs.BDDInheritanceTest"
+				><testcase
+			name="A spec is just a closure so it can contain code"
+			time="0.002"
+			classname="tests.specs.BDDInheritanceTest"
+			></testcase><testcase
+			name="A spec can have more than one expectation test"
+			time="0.001"
+			classname="tests.specs.BDDInheritanceTest"
+			></testcase><testcase
+			name="A spec can chain expectations"
+			time="0.001"
+			classname="tests.specs.BDDInheritanceTest"
+			></testcase><testcase
+			name="A spec can have negative expectations"
+			time="0.001"
+			classname="tests.specs.BDDInheritanceTest"
+			></testcase><testcase
+			name="A spec can have tests that can be skipped easily like this one"
+			time="0"
+			classname="tests.specs.BDDInheritanceTest"
+			><skipped></skipped></testcase><testcase
+			name="A spec can have tests that execute if the right environment exists &#x28;Lucee only&#x29;"
+			time="0.001"
+			classname="tests.specs.BDDInheritanceTest"
+			></testcase><testcase
+			name="A spec can have tests that execute if the right environment exists &#x28;acf only&#x29;"
+			time="0"
+			classname="tests.specs.BDDInheritanceTest"
+			><skipped></skipped></testcase><testcase
+			name="A spec can have a skip that is executed at runtime"
+			time="0"
+			classname="tests.specs.BDDInheritanceTest"
+			><skipped></skipped></testcase></testsuite><testsuite
+				tests="2"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.006"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.BDDLifecycleAnnotationsTest"
+				name="tests.specs.BDDLifecycleAnnotationsTest"
+				><testcase
+			name="Lifecycle annotations runs lifecycle annotation hooks just as if they were in the suite"
+			time="0.002"
+			classname="tests.specs.BDDLifecycleAnnotationsTest"
+			></testcase><testcase
+			name="Lifecycle annotations Lifecycle Annotation Hooks with normal Lifecycle Methods runs both types of methods"
+			time="0.001"
+			classname="tests.specs.BDDLifecycleAnnotationsTest"
+			></testcase></testsuite><testsuite
+				tests="3"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.018"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.BDDLifecycleTest"
+				name="tests.specs.BDDLifecycleTest"
+				><testcase
+			name="A suite before should be 1"
+			time="0.001"
+			classname="tests.specs.BDDLifecycleTest"
+			></testcase><testcase
+			name="A suite A nested suite before should be 4"
+			time="0.001"
+			classname="tests.specs.BDDLifecycleTest"
+			></testcase><testcase
+			name="A suite A nested suite Another nested suite before should be 11"
+			time="0.001"
+			classname="tests.specs.BDDLifecycleTest"
+			></testcase></testsuite><testsuite
+				tests="52"
+				failures="0"
+				errors="0"
+				skipped="7"
+				time="0.118"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.BDDTest"
+				name="tests.specs.BDDTest"
+				><testcase
+			name="A spec can have a spec with passthrough assertions"
+			time="0.003"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can match strings with no case sensitivity and, has, commas in the title"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can match strings with case sensitivity"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec is just a closure so it can contain code"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can satisfy truth tests"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can validate instance types"
+			time="0.002"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can validate json"
+			time="0.032"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can have more than one expectation test"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can check includes with strings"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can check includes with arrays"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can check an expected needle to exist in a string"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can check an expected needle to exist in an array"
+			time="0"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can check if a string starts with the actual value"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can check if a string starts with the actual value with case-sensitivity"
+			time="0.002"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can check if a string ends with the actual value"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can check if a string ends with the actual value with case-sensitivity"
+			time="0.002"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can have negative expectations"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can get private properties"
+			time="0.004"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can have tests that can be skipped easily like this one"
+			time="0"
+			classname="tests.specs.BDDTest"
+			><skipped></skipped></testcase><testcase
+			name="A spec can have tests that execute if the right environment exists &#x28;Lucee only&#x29;"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can have tests that execute if the right environment exists &#x28;acf only&#x29;"
+			time="0"
+			classname="tests.specs.BDDTest"
+			><skipped></skipped></testcase><testcase
+			name="A spec can have a skip that is executed at runtime - skipping this because I can&#x21;&#x21;&#x21;"
+			time="0"
+			classname="tests.specs.BDDTest"
+			><skipped></skipped></testcase><testcase
+			name="A spec can have null expectations"
+			time="0"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can have discrete math"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can test a collection"
+			time="0.002"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can fail any element of a collection"
+			time="0"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec can process structure key expectations"
+			time="0.002"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A spec A nice &#x2f;suite&#x2f;with&#x2f;slashes can have slashes&#x2f;inthe&#x2f;it"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="Custom Matchers are cool and foo should be really false"
+			time="0"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="Custom Matchers are still cool and the negation of foo should be really true"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="Custom Matchers Nested suite&#x3a; Testing loading via a CFC should be awesome"
+			time="0.002"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="Custom Matchers Nested suite&#x3a; Testing loading via a CFC should know its maker"
+			time="0.002"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="Custom Matchers Nested suite&#x3a; Testing loading via a CFC Yet another nested suite should have cascaded beforeEach&#x28;&#x29; call from parent"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="Custom Matchers Nested suite&#x3a; Testing loading via a CFC Yet another nested suite should have cascaded beforeEach&#x28;&#x29; call from grandparent"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="Custom Matchers Another Nested Suite can also be awesome"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A suite that gets skipped inline via skip&#x28;&#x29; should be skipped"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			><skipped></skipped></testcase><testcase
+			name="A Lucee only suite should only execute for Lucee"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A calculator test suite Can have a separate beforeEach for this suite"
+			time="0.002"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A calculator test suite can add incorrectly and fail &#x28;Skipped&#x29;"
+			time="0"
+			classname="tests.specs.BDDTest"
+			><skipped></skipped></testcase><testcase
+			name="A calculator test suite cannot divide by zero"
+			time="0.002"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A calculator test suite cannot divide by zero with message regex"
+			time="0.002"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A calculator test suite can do throws with no message"
+			time="0.004"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A calculator test suite can do throws with message and detail regex"
+			time="0.002"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A calculator test suite can use a mocked stub"
+			time="0.005"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A calculator test suite can produce errors"
+			time="0"
+			classname="tests.specs.BDDTest"
+			><skipped></skipped></testcase><testcase
+			name="A calculator test suite can mock any type of data"
+			time="0.014"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="A calculator test suite can load the output utilities into request.testbox"
+			time="0.002"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="In depth throwing exceptions throws a FooException"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="In depth throwing exceptions won&#x27;t throw a FooException because nothing is thrown"
+			time="0"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="In depth throwing exceptions won&#x27;t throw a FooException because a different exception is thrown"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase><testcase
+			name="In depth throwing exceptions will fail when no regex provided if any exception occurs"
+			time="0.001"
+			classname="tests.specs.BDDTest"
+			></testcase></testsuite><testsuite
+				tests="6"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.008"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.BetweenTests"
+				name="tests.specs.BetweenTests"
+				><testcase
+			name="Tests of TestBox behaviour rejects 5 as being between 1 and 10"
+			time="0.003"
+			classname="tests.specs.BetweenTests"
+			></testcase><testcase
+			name="Tests of TestBox behaviour rejects 10 as being between 1 and 10"
+			time="0.001"
+			classname="tests.specs.BetweenTests"
+			></testcase><testcase
+			name="Tests of TestBox behaviour rejects 15 as being between 1 and 10"
+			time="0"
+			classname="tests.specs.BetweenTests"
+			></testcase><testcase
+			name="Tests of TestBox behaviour accepts 1 as being between 1 and 10"
+			time="0.001"
+			classname="tests.specs.BetweenTests"
+			></testcase><testcase
+			name="Tests of TestBox behaviour accepts 5 as being between 1 and 10"
+			time="0.001"
+			classname="tests.specs.BetweenTests"
+			></testcase><testcase
+			name="Tests of TestBox behaviour accepts 10 as being between 1 and 10"
+			time="0"
+			classname="tests.specs.BetweenTests"
+			></testcase></testsuite><testsuite
+				tests="6"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.1"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.coverage.CoverageReporterTest"
+				name="tests.specs.coverage.CoverageReporterTest"
+				><testcase
+			name="CoverageReporter can init"
+			time="0.005"
+			classname="tests.specs.coverage.CoverageReporterTest"
+			></testcase><testcase
+			name="CoverageReporter will read options"
+			time="0.001"
+			classname="tests.specs.coverage.CoverageReporterTest"
+			></testcase><testcase
+			name="CoverageReporter batching disabled won&#x27;t process coverage data if batching disabled"
+			time="0.01"
+			classname="tests.specs.coverage.CoverageReporterTest"
+			></testcase><testcase
+			name="CoverageReporter batching enabled beginCoverageReport - deletes old JSON report if exists"
+			time="0.007"
+			classname="tests.specs.coverage.CoverageReporterTest"
+			></testcase><testcase
+			name="CoverageReporter code coverage processing processCoverageReport - merges coverage data"
+			time="0.02"
+			classname="tests.specs.coverage.CoverageReporterTest"
+			></testcase><testcase
+			name="CoverageReporter code coverage processing processCoverageReport - keeps COVERED line data from both old and new"
+			time="0.055"
+			classname="tests.specs.coverage.CoverageReporterTest"
+			></testcase></testsuite><testsuite
+				tests="5"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.13"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.coverage.CoverageServiceTest"
+				name="tests.specs.coverage.CoverageServiceTest"
+				><testcase
+			name="CoverageService can init"
+			time="0.041"
+			classname="tests.specs.coverage.CoverageServiceTest"
+			></testcase><testcase
+			name="CoverageService will read options"
+			time="0.016"
+			classname="tests.specs.coverage.CoverageServiceTest"
+			></testcase><testcase
+			name="CoverageService un-enabled coverage beginCapture - will not generate coverage unless enabled"
+			time="0.016"
+			classname="tests.specs.coverage.CoverageServiceTest"
+			></testcase><testcase
+			name="CoverageService un-enabled coverage endCapture - will not generate coverage unless enabled"
+			time="0.023"
+			classname="tests.specs.coverage.CoverageServiceTest"
+			></testcase><testcase
+			name="CoverageService enabled coverage, disabled coverage batching processCoverage - will not batch coverage unless enabled"
+			time="0.013"
+			classname="tests.specs.coverage.CoverageServiceTest"
+			></testcase></testsuite><testsuite
+				tests="4"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.007"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.DebugTests"
+				name="tests.specs.DebugTests"
+				><testcase
+			name="Debug can have custom labels"
+			time="0.001"
+			classname="tests.specs.DebugTests"
+			></testcase><testcase
+			name="Debug can have generic labels"
+			time="0.001"
+			classname="tests.specs.DebugTests"
+			></testcase><testcase
+			name="Debug can do top functionality"
+			time="0.001"
+			classname="tests.specs.DebugTests"
+			></testcase><testcase
+			name="Debug another Suite can have generic labels too"
+			time="0.001"
+			classname="tests.specs.DebugTests"
+			></testcase></testsuite><testsuite
+				tests="8"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.009"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.ExcludesTest"
+				name="tests.specs.ExcludesTest"
+				><testcase
+			name="Suite with a label should execute"
+			time="0.002"
+			classname="tests.specs.ExcludesTest"
+			></testcase><testcase
+			name="Suite with a label should execute as well"
+			time="0"
+			classname="tests.specs.ExcludesTest"
+			></testcase><testcase
+			name="Suite with a label Nested Suite should execute as well, as nested suite is inside a label suite"
+			time="0"
+			classname="tests.specs.ExcludesTest"
+			></testcase><testcase
+			name="Suite with a label Nested Suite Double Nested Suite should execute this spec as well, because a parent suite has the correct label"
+			time="0"
+			classname="tests.specs.ExcludesTest"
+			></testcase><testcase
+			name="Suites with no labels should execute"
+			time="0"
+			classname="tests.specs.ExcludesTest"
+			></testcase><testcase
+			name="Suites with no labels should execute"
+			time="0"
+			classname="tests.specs.ExcludesTest"
+			></testcase><testcase
+			name="Suite without a label but containing a spec with a label spec with a label"
+			time="0"
+			classname="tests.specs.ExcludesTest"
+			></testcase><testcase
+			name="Suite without a label but containing a spec with a label should execute"
+			time="0"
+			classname="tests.specs.ExcludesTest"
+			></testcase></testsuite><testsuite
+				tests="18"
+				failures="0"
+				errors="0"
+				skipped="9"
+				time="0.011"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.FocusedSpecs"
+				name="tests.specs.FocusedSpecs"
+				><testcase
+			name="My First Suite A Spec that should not run"
+			time="0"
+			classname="tests.specs.FocusedSpecs"
+			><skipped></skipped></testcase><testcase
+			name="My First Suite A Spec that should not run"
+			time="0"
+			classname="tests.specs.FocusedSpecs"
+			><skipped></skipped></testcase><testcase
+			name="My First Suite This should execute"
+			time="0.002"
+			classname="tests.specs.FocusedSpecs"
+			></testcase><testcase
+			name="My First Suite A Spec that should not run"
+			time="0"
+			classname="tests.specs.FocusedSpecs"
+			><skipped></skipped></testcase><testcase
+			name="My First Suite This should execute as well"
+			time="0.001"
+			classname="tests.specs.FocusedSpecs"
+			></testcase><testcase
+			name="My First Suite All specs here should run should run"
+			time="0.001"
+			classname="tests.specs.FocusedSpecs"
+			></testcase><testcase
+			name="My First Suite All specs here should run should run"
+			time="0.001"
+			classname="tests.specs.FocusedSpecs"
+			></testcase><testcase
+			name="My First Suite All specs here should run should run"
+			time="0"
+			classname="tests.specs.FocusedSpecs"
+			></testcase><testcase
+			name="My Focused Suite This should execute"
+			time="0.001"
+			classname="tests.specs.FocusedSpecs"
+			></testcase><testcase
+			name="My Focused Suite All specs here should run should run"
+			time="0"
+			classname="tests.specs.FocusedSpecs"
+			></testcase><testcase
+			name="My Focused Suite All specs here should run should run"
+			time="0.001"
+			classname="tests.specs.FocusedSpecs"
+			></testcase><testcase
+			name="My Focused Suite All specs here should run should run"
+			time="0.001"
+			classname="tests.specs.FocusedSpecs"
+			></testcase></testsuite><testsuite
+				tests="1"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.006"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.GivenWhenThenTest"
+				name="tests.specs.GivenWhenThenTest"
+				><testcase
+			name="Feature&#x3a; Given-When-Then test language support Scenario&#x3a; I want to be able to write tests using Given-When-Then language Given I am using TestBox When I run this test suite Then it should be supported"
+			time="0.002"
+			classname="tests.specs.GivenWhenThenTest"
+			></testcase></testsuite><testsuite
+				tests="2"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.007"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.InjectTests"
+				name="tests.specs.InjectTests"
+				><testcase
+			name="tests.specs.InjectTests testInjectedPublicMethod"
+			time="0.003"
+			classname="tests.specs.InjectTests"
+			></testcase><testcase
+			name="tests.specs.InjectTests testInjectedPrivateMethod"
+			time="0.002"
+			classname="tests.specs.InjectTests"
+			></testcase></testsuite><testsuite
+				tests="8"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.008"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.LabelsTest"
+				name="tests.specs.LabelsTest"
+				><testcase
+			name="Suite with a label should execute"
+			time="0.001"
+			classname="tests.specs.LabelsTest"
+			></testcase><testcase
+			name="Suite with a label should execute as well"
+			time="0"
+			classname="tests.specs.LabelsTest"
+			></testcase><testcase
+			name="Suite with a label Nested Suite should execute as well, as nested suite is inside a label suite"
+			time="0"
+			classname="tests.specs.LabelsTest"
+			></testcase><testcase
+			name="Suite with a label Nested Suite Double Nested Suite should execute this spec as well, because a parent suite has the correct label"
+			time="0"
+			classname="tests.specs.LabelsTest"
+			></testcase><testcase
+			name="Suites with no labels should not execute"
+			time="0.001"
+			classname="tests.specs.LabelsTest"
+			></testcase><testcase
+			name="Suites with no labels should not execute"
+			time="0.001"
+			classname="tests.specs.LabelsTest"
+			></testcase><testcase
+			name="Suite without a label but containing a spec with a label spec with a label"
+			time="0"
+			classname="tests.specs.LabelsTest"
+			></testcase><testcase
+			name="Suite without a label but containing a spec with a label should not execute"
+			time="0"
+			classname="tests.specs.LabelsTest"
+			></testcase></testsuite><testsuite
+				tests="28"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.305"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.mockbox.MockBoxTest"
+				name="tests.specs.mockbox.MockBoxTest"
+				><testcase
+			name="tests.specs.mockbox.MockBoxTest testStubs"
+			time="0.008"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testProperties"
+			time="0.003"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testCFUDF"
+			time="0.006"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testContainsClosureOrUDF"
+			time="0.006"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testSpys"
+			time="0.005"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testVerifyOnce"
+			time="0.053"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testStubInheritedInterfaces"
+			time="0.029"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testVirtualMethods"
+			time="0.062"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testGetProperty"
+			time="0.002"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testGetPropertyDeep"
+			time="0.003"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testContainsCFKeyword"
+			time="0.014"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testMockRealMethods"
+			time="0.006"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testCallbacks"
+			time="0.011"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testVerifyNever"
+			time="0.005"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testInterfaceContracts"
+			time="0.004"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testVerifyAtLeast"
+			time="0.003"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testCollaborator"
+			time="0.005"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testStubWithImplements"
+			time="0.009"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testMockWithArguments"
+			time="0.005"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testMockMethodCallCount"
+			time="0.005"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest test&#x24;Throws"
+			time="0.005"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testVerifyAtMost"
+			time="0.006"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testMethodArgumentSignatures"
+			time="0.021"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testStubWithInheritance"
+			time="0.006"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testStateMachineResults"
+			time="0.006"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testMockPrivateMethods"
+			time="0.004"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest test&#x24;spy"
+			time="0.005"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase><testcase
+			name="tests.specs.mockbox.MockBoxTest testVerifyCallCount"
+			time="0.003"
+			classname="tests.specs.mockbox.MockBoxTest"
+			></testcase></testsuite><testsuite
+				tests="51"
+				failures="0"
+				errors="0"
+				skipped="1"
+				time="0.043"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.more.EmbedTest"
+				name="tests.specs.more.EmbedTest"
+				><testcase
+			name="tests.specs.more.EmbedTest testExpectedExceptionNoValue"
+			time="0.003"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testIsEqualQuery"
+			time="0.001"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testNotNullValue"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testTypeOf"
+			time="0.003"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testIncludes"
+			time="0.001"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testThrowsDoesNotIgnoreTypeWhenRegexMatches"
+			time="0.003"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testExpectedExceptionFromMethodWithType"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testNegatedAwesomeCustomAssertion"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testIsLTE"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testNotIncludes"
+			time="0.001"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testNotMatchWithCase"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testAssertShortcut"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testMatchWithCase"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testNotTypeOf"
+			time="0.002"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testExpectedExceptionFromMethodWithTypeAndRegex"
+			time="0.001"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testMatch"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testExpectedExceptionWithValueAndRegex"
+			time="0.001"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testJavaValues"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testAssert"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testKey"
+			time="0.001"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testIncludesWithCase"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testThrows"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testFloatingPointNumberAddition"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testExpectedExceptionFromMethod"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testIsLT"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testLengthOf"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testThatShouldFailWithShortcut"
+			time="0.001"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testIsNotEmpty"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testExpectedExceptionWithValue"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testNotKey"
+			time="0.008"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testNotThrows"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testNotDeepKey"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testIsGTE"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testThatShouldFail"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testisTrue"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testIsGT"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testAwesomeCustomAssertion"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testNotMatch"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testIsEmpty"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testnotIncludesWithCase"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testisEqualWithCase"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testisEqual"
+			time="0.005"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testisNotEqual"
+			time="0.002"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testInstanceOf"
+			time="0.003"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testNotInstanceOf"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testSkipped"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			><skipped></skipped></testcase><testcase
+			name="tests.specs.more.EmbedTest testDeepKey"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testisFalse"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testNotLengthOf"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testnullValue"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase><testcase
+			name="tests.specs.more.EmbedTest testIsEmptyFunctions"
+			time="0"
+			classname="tests.specs.more.EmbedTest"
+			></testcase></testsuite><testsuite
+				tests="36"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.031"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.MXUnitCompatTest"
+				name="tests.specs.MXUnitCompatTest"
+				><testcase
+			name="tests.specs.MXUnitCompatTest testAddAssertDecorator"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testExpectedExceptionNoValue"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertIsQuery"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertIsEmptyArray"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testAssertEqualsCase"
+			time="0.001"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertSame"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testFromInheritance"
+			time="0.001"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testExpectedExceptionFromMethodWithType"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertIsXMLDoc"
+			time="0.001"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testAssertEquals"
+			time="0.001"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testAssertArrayEquals"
+			time="0.001"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertFalse"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testRaiseException_pass"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testExpectedExceptionFromMethodWithTypeAndRegex"
+			time="0.001"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertQueryEquals"
+			time="0.002"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testAssert"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testInjectProperty"
+			time="0.001"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testMakePublicWithPackage"
+			time="0.003"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertIsEmptyQuery"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertIsStruct"
+			time="0.001"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertNotEquals"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testAssertTrue"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testAssertIsEmpty"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertEqualsWithTolerance"
+			time="0.001"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertStructEquals"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testMakePublic"
+			time="0.004"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testExpectedExceptionWithValue"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testMockMethods"
+			time="0.002"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertIsEmptyStruct"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertNotSame"
+			time="0.004"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertIsExactTypeOf"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testFailsMethod"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testassertIsArray"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testIsDefined"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testInjectMethod"
+			time="0.001"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase><testcase
+			name="tests.specs.MXUnitCompatTest testDebug"
+			time="0"
+			classname="tests.specs.MXUnitCompatTest"
+			></testcase></testsuite><testsuite
+				tests="4"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.004"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.NestedAroundEachTest"
+				name="tests.specs.NestedAroundEachTest"
+				><testcase
+			name="Outer describe the aroundEach should be executed as normal"
+			time="0.001"
+			classname="tests.specs.NestedAroundEachTest"
+			></testcase><testcase
+			name="Outer describe Inner describe the aroundEach from the parent context should be ran"
+			time="0.001"
+			classname="tests.specs.NestedAroundEachTest"
+			></testcase><testcase
+			name="Another describe with no aroundEach can execute as normal"
+			time="0.001"
+			classname="tests.specs.NestedAroundEachTest"
+			></testcase><testcase
+			name="Another describe with no aroundEach with yet another describe can execute as normal"
+			time="0"
+			classname="tests.specs.NestedAroundEachTest"
+			></testcase></testsuite><testsuite
+				tests="5"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="5.921"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.NestedDescribeTest"
+				name="tests.specs.NestedDescribeTest"
+				><testcase
+			name="Outer describe Inner describe Tests are ONLY in inner it&#x28;&#x29;"
+			time="0.002"
+			classname="tests.specs.NestedDescribeTest"
+			></testcase><testcase
+			name="Outer describe Story&#x3a; I want pricing details Given &#x5b;AmaWaterways&#x5d; valid incoming arguments for a AmaWaterways sailing Then &#x5b;AmaWaterways&#x5d; I get a response with inErrorStatus&#x3d;false"
+			time="0.829"
+			classname="tests.specs.NestedDescribeTest"
+			></testcase><testcase
+			name="Outer describe Story&#x3a; I want pricing details Given &#x5b;Avalon&#x5d; valid incoming arguments for a Avalon sailing Then &#x5b;Avalon&#x5d; I get a response with inErrorStatus&#x3d;false"
+			time="1.864"
+			classname="tests.specs.NestedDescribeTest"
+			></testcase><testcase
+			name="Outer describe Story&#x3a; I want pricing details Given &#x5b;Azamara&#x5d; valid incoming arguments for a Azamara sailing Then &#x5b;Azamara&#x5d; I get a response with inErrorStatus&#x3d;false"
+			time="1.291"
+			classname="tests.specs.NestedDescribeTest"
+			></testcase><testcase
+			name="Outer describe Story&#x3a; I want pricing details Given &#x5b;Celebrity&#x5d; valid incoming arguments for a Celebrity sailing Then &#x5b;Celebrity&#x5d; I get a response with inErrorStatus&#x3d;false"
+			time="1.932"
+			classname="tests.specs.NestedDescribeTest"
+			></testcase></testsuite><testsuite
+				tests="1"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.032"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.SpecDataTests"
+				name="tests.specs.SpecDataTests"
+				><testcase
+			name="Spec Data can handle binding"
+			time="0.012"
+			classname="tests.specs.SpecDataTests"
+			></testcase></testsuite><testsuite
+				tests="1"
+				failures="0"
+				errors="0"
+				skipped="0"
+				time="0.007"
+				timestamp="2025-11-08T11:50:40"
+				hostname="parrot"
+				package="tests.specs.TestExecutionSequence"
+				name="tests.specs.TestExecutionSequence"
+				><testcase
+			name="outer describe inner describe tests the negative"
+			time="0.003"
+			classname="tests.specs.TestExecutionSequence"
+			></testcase></testsuite></testsuites>
